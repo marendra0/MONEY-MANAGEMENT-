@@ -1,0 +1,6 @@
+{
+  "name": "CatatUang - Pengatur Pengeluaran Bulanan",
+  "description": "Aplikasi pelacak, pengatur, dan analisis pengeluaran bulanan cerdas dengan asisten AI keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
